@@ -3,6 +3,10 @@ body {
     text-align: center;
 }
 
+.col-7 {
+    width: calc(100% / 7);
+}
+
 .square {
     width: 100%;
     aspect-ratio: 1 / 1;

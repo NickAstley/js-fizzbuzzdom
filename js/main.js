@@ -38,7 +38,7 @@ for (let i = 1; i <= 100; i++) {
     //Stampiamo i numeri da 1 a 100 all'avvio della pagina
     console.log(testoDaStampare);
     // Per ogni numero creo un div per la colonna. Al suo interno inserisco un div con delle classi Bootstrap per allinearne il contenuto e aggiungo la classe per il colore
-    numbersContainer.innerHTML += ` <div>
+    numbersContainer.innerHTML += ` <div class="col-7">
                                         <div class="row justify-content-center align-items-center square fw-bold ${sfondoDiv}">
                                             ${testoDaStampare}
                                         </div>
