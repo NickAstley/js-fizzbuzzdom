@@ -1,0 +1,25 @@
+body {
+    background-color: #083B4C;
+    text-align: center;
+}
+
+.square {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+}
+
+.bg-blue {
+    background-color: #1389B2;
+}
+
+.bg-green {
+    background-color: #0BD6A1;
+}
+
+.bg-yellow {
+    background-color: #FFD166;
+}
+
+.bg-red {
+    background-color: #F0466F;
+}
